@@ -1,0 +1,8 @@
+# Binary release
+*.bin
+
+# Object files
+*.o
+
+# Vim swap files
+.*.swp
